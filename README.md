@@ -10,6 +10,7 @@ This is my implementation of Bill Moseley's Python Code With Me.
 - Day 5 - Area Calculator
 - Day 6 - Currency Conversion Calculator
 - Day 7 - Mortgage Payment Calculator
+- Day 10 - Temperature Calculator
 
 
 ### Credits
