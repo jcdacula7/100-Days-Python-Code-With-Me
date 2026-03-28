@@ -14,6 +14,7 @@ This is my implementation of Bill Moseley's Python Code With Me.
 - Day 11 - Number Guessing Game
 - Day 13 - Simple ATM Simulation
 - Day 14 - Multiple Number Guessing Game
+- Day 15 - Rock Paper Scissors Game with Loops
 
 
 ### Credits
